@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: PalAuraBars
+## Notes: Показывает, какая аура активна у каждого паладина в группе и рейде
+## Author: Nikol
+## Version: 1.0.0
+## SavedVariables: PalAuraBarsDB
+
+PalAuraBars.lua
+PalAuraBars_Config.lua
