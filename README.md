@@ -1,16 +1,14 @@
 # PalAuraBars
 
 Аддон для **World of Warcraft 3.3.5a (WotLK)** — показывает, **какая аура активна
-у каждого паладина** в группе и рейде.
+у каждого паладина** в группе или рейде.
 
 ![PalAuraBars](PalAuraBars.jpg)
 
 ## Установка
 
-1. Скачай папку `PalAuraBars`.
-2. Помести в `<путь к WoW>\Interface\AddOns\` — должно получиться
-   `Interface\AddOns\PalAuraBars\`.
-3. Перезапусти клиент (или выполни `/reload`).
+1. Папку `PalAuraBars` помести в `<путь к WoW>\Interface\AddOns\`
+2. Перезапустить клиент (или выполнить `/reload`).
 
 ## Команды
 

@@ -130,7 +130,7 @@ local SPELL_ID_TO_KEY = {
 	[19746] = "concentration",
 
 	[19876] = "shadow_res", [19895] = "shadow_res", [19898] = "shadow_res",
-	[27151] = "shadow_res", [48943] = "shadow_res",
+	[27151] = "shadow_res", [48943] = "shadow_res", [19896] = "shadow_res",
 
 	[19888] = "frost_res", [19897] = "frost_res", [19900] = "frost_res",
 	[27152] = "frost_res", [48945] = "frost_res",
